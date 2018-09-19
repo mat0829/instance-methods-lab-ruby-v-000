@@ -5,5 +5,6 @@ class Person
     # Defining what the method talk does
     puts "Hello World!"
   end
+  # Creating another new method within my Person class called "walk"
 
 end
