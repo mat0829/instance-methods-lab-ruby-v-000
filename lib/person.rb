@@ -7,7 +7,7 @@ class Person
   end
   # Creating another new method within my Person class called "walk"
   def walk
-    #
+    # Defining what the method walk does
     puts "The Person is walking"
   end
 end
