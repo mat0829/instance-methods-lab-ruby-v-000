@@ -7,7 +7,7 @@ class Dog
   end
   # Creating a method within my Dog class called "sit"
   def sit
-    # Defining what that method does
+    # Defining what the method sit does
     puts "The Dog is sitting"
   end
 end
