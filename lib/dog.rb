@@ -10,4 +10,3 @@ class Dog.new
     # Defining what that method does
     puts "The Dog is sitting"
   end
-end
