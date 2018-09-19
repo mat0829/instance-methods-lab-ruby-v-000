@@ -6,5 +6,9 @@ class Person
     puts "Hello World!"
   end
   # Creating another new method within my Person class called "walk"
+  def walk
+    #
+    puts "The Person is walking"
+  end
 
 end
