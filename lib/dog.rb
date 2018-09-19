@@ -1,5 +1,5 @@
 # Creating a new class called "Dog"
-class Dog.new
+class Dog
   # Creating a method within my Dog class called "bark"
   def bark
     # defining what that method does
@@ -10,3 +10,4 @@ class Dog.new
     # Defining what that method does
     puts "The Dog is sitting"
   end
+end
