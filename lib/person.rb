@@ -4,5 +4,6 @@ class Person
   def talk
     # Defining what the method talk does
     puts "Hello World!"
+  end
 
 end
